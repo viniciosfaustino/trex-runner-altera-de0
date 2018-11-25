@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -9.297
+TNS   : -4416.301
+
+Type  : Slow 1200mV 85C Model Setup 'CDiv:SegClock|D'
+Slack : 0.213
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -0.153
+TNS   : -0.153
+
+Type  : Slow 1200mV 85C Model Hold 'CDiv:SegClock|D'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -0.668
+TNS   : -36.901
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -763.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CDiv:SegClock|D'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -8.288
+TNS   : -3903.369
+
+Type  : Slow 1200mV 0C Model Setup 'CDiv:SegClock|D'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.168
+TNS   : -0.168
+
+Type  : Slow 1200mV 0C Model Hold 'CDiv:SegClock|D'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -0.484
+TNS   : -23.248
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 0.459
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -763.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CDiv:SegClock|D'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -4.706
+TNS   : -2194.829
+
+Type  : Fast 1200mV 0C Model Setup 'CDiv:SegClock|D'
+Slack : 0.559
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.191
+TNS   : -0.191
+
+Type  : Fast 1200mV 0C Model Hold 'CDiv:SegClock|D'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -810.741
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CDiv:SegClock|D'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------
